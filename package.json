@@ -1,7 +1,7 @@
 {
-  "name": "react-getting-started-github-cards-app",
+  "name": "learning-react-getting-started-github-cards-app",
   "version": "1.0.0",
-  "description": "Learning sandbox from \"Building web application with react\" from Pluralsight.",
+  "description": "This project is part of \"Building Web Applications with React\" from Pluralsight.\n",
   "keywords": [],
   "main": "src/index.js",
   "dependencies": {
